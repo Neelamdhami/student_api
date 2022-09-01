@@ -89,8 +89,8 @@ test:
 #
 production:
   <<: *default
-  database: student_api_production
-  username: root
-  password: root
-  host: localhost
+  database: d76f4aus4asnd2
+  username: sanxflkgzjhkks
+  password: e23d56e785bbb0c2be048d967f2021a4871e180bc409b60bea3b5408e0c0afe0
+  host: ec2-3-223-242-224.compute-1.amazonaws.com
   port: 5432
